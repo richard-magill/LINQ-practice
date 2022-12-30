@@ -1,0 +1,16 @@
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.exe
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.deps.json
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.runtimeconfig.json
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.runtimeconfig.dev.json
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.dll
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\bin\Debug\net5.0\LINQSamples.pdb
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.csproj.AssemblyReference.cache
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.AssemblyInfoInputs.cache
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.AssemblyInfo.cs
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.csproj.CoreCompileInputs.cache
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.dll
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\refint\LINQSamples.dll
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.pdb
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\LINQSamples.genruntimeconfig.cache
+C:\LocalGitRepo\LINQ-practice\CSharp-Language-Integrated-Query-StartingSamples\Module05\LINQSamples\obj\Debug\net5.0\ref\LINQSamples.dll
