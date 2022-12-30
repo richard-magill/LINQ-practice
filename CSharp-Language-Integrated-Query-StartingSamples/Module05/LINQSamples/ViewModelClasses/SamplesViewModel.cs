@@ -254,6 +254,7 @@ namespace LINQSamples
             }
             ResultText = $"intersection = {results.Count}";
         }
+
   }
 
 }
